@@ -1,7 +1,7 @@
 import React from 'react';
 
 function App() {
-  return (
+  return ( 
     <React.Fragment>
       <div className="parent1">
         <div className="child1"></div>
